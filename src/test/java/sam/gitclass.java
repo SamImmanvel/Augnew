@@ -14,6 +14,19 @@ public class gitclass {
 		// TODO Auto-generated method stub
 
 	}
+	private void method4() {
+		// TODO Auto-generated method stub
+
+	}
+	private void method5() {
+		// TODO Auto-generated method stub
+
+	}
+	private void method6() {
+
+
+	}
+
 	private void method7() {
 		// TODO Auto-generated method stub
 
@@ -23,7 +36,6 @@ public class gitclass {
 
 	}
 	private void method9() {
-		// TODO Auto-generated method stub
 
-	}
-}
+	
+}}
